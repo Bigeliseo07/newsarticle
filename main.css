@@ -1,0 +1,33 @@
+.row {
+	
+	min-height: 50px;
+	
+	
+}
+.col {
+	min-height: 200px;
+	box-sizing: border-box;
+	float: left;
+	padding: 5px;
+}
+
+.col-one-third{
+	width:33.33%;
+}
+
+.col-one-third{
+	width:33.33%;
+}
+
+.div col-one-third{
+	width: 33.33%;
+	float: right;
+
+}
+
+.i class{
+	float: right;
+}
+
+
+
